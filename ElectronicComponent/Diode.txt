@@ -1,0 +1,13 @@
+- Diode (phiên âm tiếng Việt là đi-ốt) hay còn được gọi là Diode bán dẫn là linh kiện điện tử cho phép dòng điện đi qua nó theo một chiều duy nhất mà không chạy ngược lại. Bạn hãy tưởng tượng diode giống như van một chiều dùng cho nước, nước chỉ chạy được một chiều khi qua van, chiều còn lại sẽ bị chặn.
+
+- Diode chỉnh lưu:
+	+ Bên trong các mạch điện tử của tivi, máy giặt, tủ lạnh…chúng điều sử dụng dòng điện 1 chiều (DC), nhưng nguồn cấp bên ngoài tại Việt Nam thì dùng nguồn 220Vac. Vì thế bên trong các thiết bị này, phải dùng mạch diode chỉnh lưu dòng điện AC => DC
+	+ Ứng dụng khác nếu các bạn để ý các thiết bị đèn trên xe máy hoặc Ôtô điều dùng nguồn điện 1 chiều (DC). Tuy nhiên nguồn điện được tạo ra từ mâm lửa và cuộn dây sẽ tạo ra dòng điện xoay chiều. Vì vậy để sử dụng được dòng điện DC thì phải có mạch diode chỉnh lưu.
+
+- Diode xung: Diode xung thường được dùng chỉnh lưu trong các bộ nguồn xung, thiết bị điện tử tần số cao
+
+- Diode phát quang: các diode có khả năng phát ra ánh sáng hay tia hồng ngoại, tử ngoại.
+
+- Diode Zener (ổn áp): Khi sử dụng đi-ốt này mắc ngược chiều lại, nếu điện áp tại mạch lớn hơn điện áp định mức của điốt thì điốt sẽ cho dòng điện đi qua
+
+- Diode 1N4007: được sử dụng trong các adapter AC cho các thiết bị gia dụng thông thường. Diode 1N4007 chịu được điện áp tối đa lên đến 1000V. Dòng điện cực đại qua mỗi diode 1N4007 là 1A, nếu dòng cao hơn sẽ gây nóng và cháy diode

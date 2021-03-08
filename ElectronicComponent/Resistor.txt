@@ -1,0 +1,7 @@
+- Hình dáng: 
+	+ Chân cắm
+	+ Trở dán
+- Công suất:
+	+ Trở công suất lớn (kích thước lớn)
+	+ Trở công suất nhỏ (kích thước nhỏ)
+- Tác dụng: Hạn dòng điện. Ví dụ nguồn cấp 6V dòng điện 3V thì cần điện trở 3V ở giữa

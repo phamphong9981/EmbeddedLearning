@@ -1,0 +1,9 @@
+Opto (optocoupler) còn gọi là bộ Opto cách ly quang  là một linh kiện dùng để chuyển tín hiệu điện sang ánh sáng và sau đó mới truyền đi.Ưu điểm chính của opto là cách ly điện áp giữa các mạch đầu vào và đầu ra. Tiếp xúc duy nhất giữa đầu vào và đầu ra ở opto là một chùm ánh sáng. Điện trở cách li giữa hai mạch lên tới hàng ngàn MΩ. Được ứng dụng trong các mạch có điện áp cao và điện thế của hai mạch có thể khác nhau tới vài nghìn vôn.
+
+- Nguyên lý hoạt động: Khi có dòng nhỏ đi qua 2 đầu của led có trong opto làm cho LED phát sáng. Khi LED phát sáng làm thông hai cực của photo transitor hay photo diot mở cho dòng điện chạy qua
+
+- Ứng dụng: 
+	+ Khi sự cố ở tầng đầu ra như cháy, chập, tăng áp,…thì cũng không làm ảnh hưởng đến tầng điều khiển
+	+ Opto ( optocoupler ) được sử dụng nhiều trong công nghiệp như là bộ chuyển đổi tín hiệu giữa các thiết bị có điện áp cao (công tắc giới hạn) và các mạch logic điện áp thấp.
+	+ Các bộ cách ly quang học có thể được sử dụng trong các trường hợp mà giữa hai mạch cần được cách ly với nhau. Sự cách ly điện giữa hai mạch cần phải có một thiết bị để ngăn chặn nhiễu được tạo ra trong quá trình truyền từ mạch này tới mạch kia. Điều này rất cần thiết cho việc ghép nối giữa các mạch thu thập thông tin điện áp cao và các mạch logic điện áp thấp. Vì các mạch thông tin hầu như sẽ phải tiếp xúc với các nguồn nhiễu và các mạch logic không thể chịu được các tín hiệu nhiễu này.
+	+ Trong nhiều ứng dụng, mạch điện tử triac và triac chịu sự điều khiển của các hệ thống điện tử nhạy cảm. Ví dụ, một hệ thống vi xử lý được lập trình để bật và tắt động cơ, đèn và máy sưởi cần phải có một thiết bị cách ly chúng nhằm giảm nhiễu dòng điện đến các thiết bị điện tử điều khiển và có thể bảo vệ nó trong trường hợp SCR hoặc TRIAC bị hư hỏng.

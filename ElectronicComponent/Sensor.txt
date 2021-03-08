@@ -1,0 +1,2 @@
+Sensor là một thuật ngữ chuyên ngành dùng để chỉ các loại cảm biến, đầu dò, công tắc hoặc một loại thiết bị cảm nhận nào đó. Là các loại thiết bị có các bộ phận cảm nhận, tiếp xúc theo một phương thức nào đó để có thể đo lường các đại lượng hay hiện tượng vật lý nào đó. Bên cạnh đó các sensor còn có các bộ phận xử lý tín hiệu và cho ra các dạng tín hiệu khác nhau để người dùng có thể kết nối với các thiết biết hỗ trợ và điều khiển.
+

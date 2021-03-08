@@ -1,0 +1,1 @@
+Trong các mạch điện tử, IC ổn áp tuyến tính thường được dùng để ổn định điện áp. Cho dù điện áp đầu vào hay điều kiện tải có thay đổi thì chúng sẽ cung cấp điện áp đầu ra ở mức cố định. Với ừn dụng này chúng sẽ giúp các thiết bị hoạt động ổn định và bền bỉ, tránh các trường hợp gây hại đến thiết b

@@ -1,0 +1,4 @@
+- Phân loại: Dựa vào cấu tạo và phạm vi ứng dụng mà người ta phân chia cuộn cảm thành những loại chính sau: cuộn cảm âm tần, cuộn cảm trung tần và cuộn cảm cao tần.
+- Nguyên lý hoạt động
+	+ Đối với dòng điện một chiều (DC), dòng điện có cường độ và chiều không đổi (tần số bằng 0). Cuộn dây hoạt động như một điện trở có điện kháng gần bằng không hay nói khác hơn cuộn dây nối đoản mạch. Dòng điện trên cuộn dây sinh ra một từ trường (B) có cường độ và chiều không đổi.
+	+ Khi mắc điện xoay chiều (AC) với cuộn dây, dòng điện trên cuộn dây sinh ra một từ trường (B) biến thiên và một điện trường (E) biến thiên, nhưng luôn vuông góc với từ trường. Cảm kháng của cuộn dây phụ thuộc vào tần số của dòng xoay chiều.

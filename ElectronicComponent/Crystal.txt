@@ -1,0 +1,5 @@
+Thạch anh là bộ dao động khá ổn định để tạo ra tần số dao động cho vi điều khiển. Đa số các mạch điều khiển đèn Led đều dùng thạch anh có thể là Thạch anh 12Mhz, 24Mhz….mỗi loại sẽ cho ra 1 xung nhịp khác nhau.
+	– Thạch anh sử dụng  rất rộng rãi, hầu như ở đâu cũng có và giá thành thì nó cũng rất dẻ, khoảng 2k/1 con.
+	– Thạch anh trong điện tử đa phần để tạo ra tần số được ổn định vì tần số của thạch anh tạo ra rất ít bị ảnh hưởng bởi nhiệt độ hơn là các mạch dao động RC….
+	– Trong Vi điều khiển bắt buộc phải có thạch anh (trừ các loại có dao động nội) vì xét chi tiết thì VDK có CPU, timer,… CPU bao gồm các mạch logic và mạch logic muốn hoạt động cũng cần có xung clock, còn timer thì gồm các dãy FF cũng cần phải có xung để đếm. Tùy loại VDK mà bao nhiêu xung clock thì ứng với 1 chu kì máy, và với mỗi xung clock VDK sẽ đi làm 1 công việc nhỏ ứng với lệnh đang thực thi.
+	– Để chạy các câu lệnh trong ic vi điều khiển, Bạn cần tạo ra xung nhịp. Tần số xung nhịp phụ thuộc vào thạch anh gắn trên chân kết nối thạch anh của vi điều khiển.

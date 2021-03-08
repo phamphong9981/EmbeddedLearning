@@ -1,0 +1,6 @@
+- Công dụng:
+	+ Máy biến áp có thể được dùng để tăng điện áp từ máy phát điện lên đường dây tải điện để đi xa, và giảm điện áp ở cuối đường dây để cung cấp nguồn điện áp phù hợp cho tải.
+	+ Ngoài ra, chúng còn được dùng trong các lò nung, hàn điện, đo lường hoặc làm nguồn điện cho các thiết bị điện, điện tử.
+- Nguyên lý: Máy biến áp hoạt động tuân theo 2 hiện tượng vật lý:
+	+ Dòng điện chạy qua dây dẫn tạo ra từ trường.
+	+ Sự biến thiên từ thông trong cuộn dây tạo ra 1 hiệu điện thế cảm ứng (hiện tượng cảm ứng điện từ)

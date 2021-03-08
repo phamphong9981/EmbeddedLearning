@@ -1,0 +1,13 @@
+- Hình dáng:
+	+ Tụ hóa: là tụ có phân cực (-), (+) và luôn có hình trụ. Trên thân tụ được thể hiện giá trị điện dung từ 0,47 µF đến 4700 µF
+	+ Tụ giấy, tụ mica và tụ gốm: là tụ không phân cực và có hình dẹt, không phân biệt âm dương. Có trị số được ký hiệu trên thân bằng ba số, điện dung của tụ thường khá nhỏ, chỉ khoảng 0,47 µF
+	+ Tụ xoay: là tụ có thể xoay để thay đổi giá trị điện dung, tụ này thường được lắp trong Radio để thay đổi tần số cộng hưởng khi ta dò đài.
+	+ Tụ Lithium ion: có năng lượng cực cao dùng để tích điện 1 chiều
+- Nguyên lý hoạt động: 
+	+ Nguyên lý phóng nạp của tụ điện được hiểu là khả năng tích trữ năng lượng điện như một ắc qui nhỏ dưới dạng năng lượng điện trường. Nó lưu trữ hiệu quả các electron và phóng ra các điện tích này để tạo ra dòng điện.  Nhưng điểm khác biệt lớn của tụ điện với ắc qui là tụ điện không có khả năng sinh ra các điện tích electron
+	+ Nguyên lý nạp xả của tụ điện là tính chất đặc trưng và cũng là nguyên lý cơ bản trong hoạt động của tụ điện. Nhờ tính chất này mà tụ điện có khả năng dẫn điện xoay chiều.
+- Công dụng: 
+	+ Khả năng lưu trữ năng lượng điện, lưu trữ điện tích hiệu quả là tác dụng được biết đến nhiều nhất. Nó giống công dụng lưu trữ như ắc-qui. Tuy nhiên, ưu điểm lớn của tụ điện là lưu trữ mà không làm tiêu hao năng lượng điện.
+	+ Công dụng tụ điện  tiếp theo là cho phép điện áp xoay chiều đi qua, giúp tụ điện có thể dẫn điện như một điện trở đa năng. Đặc biệt khi tần số điện xoay chiều (điện dung của tụ càng lớn) thì dung kháng càng nhỏ. Hỗ trợ đắc lực cho việc điện áp được lưu thông qua tụ điện.
+	+ Với nguyên lý hoạt động của tụ điện là khả năng nạp xả thông minh, ngăn điện áp 1 chiều, cho phép điện áp xoay chiều lưu thông giúp truyền tí hiệu giữa các tầng khuyếch đại có chênh lệch điện thế.
+	+ Công dụng nổi bật thứ 4 là tụ điện có vai trò lọc điện áp xoay chiều thành điện áp 1 chiều bằng phẳng bằng cách loại bỏ pha âm.

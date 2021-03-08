@@ -1,0 +1,13 @@
+Triac là một linh kiện bán dẫn chuyên dụng để đóng cắt điện xoay chiều cho tải tiêu thụ. Tôi lấy ví dụ cho các bạn dễ hiểu như thế này; Giả sử các bạn muốn đóng cắt điện cho bóng đèn chiếu sáng trong nhà  thì các bạn cần phải mắc nối tiếp với bóng đèn một công tắc. Công tắc có nhiệm vụ đóng hoặc cắt điện cho bóng đèn của bạn, nhưng điều quan trọng là trong các thiết bị tự động hóa thì không thể dùng công tắc để điều khiển tự động bóng đèn này. Do đó người ta đã sử dụng một linh kiện bán dẫn 3 chân còn gọi là triac để dễ dàng điều khiển tải ăn nguồn xoay chiều. Bản thân tên gọi triac được viết tắt của cụm từ triode for alternating current ( có nghĩa là linh kiện 3 chân cho dòng điện xoay chiều)
+
+- Nguyên lý hoạt động:
+	+ Triac có khả năng điều khiển cho mở dẫn dòng bằng cả dòng đi vào cực điều khiển (xung dương) lẫn dòng đi ra khỏi cực điều khiển (xung âm).
+	+ Để mở được Triac phải có một dòng điều khiển âm lớn hơn dòng điều khiển dương.
+	+ Dễ hiểu hơn là, triac như một công tắc điện chuyên dùng để điều khiển thiết bị điện xoay chiều. Các chân của nó cũng gần tương đương với thành phần của công tắc điện tử
+
+- Ứng dụng: 
+	+ Triac được sử dụng nhiều trong đèn bàn học, dễ dàng điều chỉnh được độ sáng bóng đèn.
+	+ Sử dụng trong các bộ phận điều khiển quạt trần,
+	+ Trong mạch điều khiển tốc độ của máy khoan, máy cưa.
+	+ Sử dụng trong các mạch điều khiển nồi phở điện.
+	+ Điều khiển nhiệt độ của lò nước công nghiệp, tủ hấp, tủ sấy…

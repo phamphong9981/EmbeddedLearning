@@ -1,0 +1,7 @@
+Transistor là một linh kiện điện tử có khả năng sử dụng tín hiệu nhỏ đặt ở một chân và điều khiển một tín hiệu lớn hơn tại chân còn lại hoặc dùng để đóng ngắt một tín hiệu nào đó đi qua nó.
+Nó có thể khuếch đại tín hiệu đầu ra mạnh hơn như điện áp, dòng điện tương ứng với tín hiệu đầu vào.
+Chính vì thế Transisitor còn được gọi là bộ khuếch đại hay transistor khuếch đại. Ngoài ra, transisitor còn có thể được sử dụng để đóng ngắt hoặc chỉnh lưu các vi mạch điện tử.
+
+- Nguyên lý hoạt động: Một transistor lưỡng cực (ký hiệu BJT) có các chân Base (cực nền), Collector (cực thu) và Emitter (cực phát). Một dòng điện nhỏ được đặt vào cực Base (với transistor NPN dòng điện đi qua cực B và cực E) có thể điều khiển hoặc chuyển đổi một dòng điện lớn giữa cực Emiter và cực Collector. Đối với bóng bán dẫn hiệu ứng trường (FET), các chân kết nối có tên là Gate (cổng), Source (nguồn) và Drain (cống). Nếu điện áp được đặt vào chân Gate có thể điểu khiển dòng điện giữa Source và Drain.
+
+-Chức năng: Sự hữu ích không hề nhỏ của transistor có lẽ xuất phát từ khả năng sử dụng một tín hiệu nhỏ được đặt một cực của nó để điều khiển một tín hiệu lớn hơn ở các cực còn lại. Tính chất này được gọi là Gain và nó có thể tạo ra tín hiệu đầu ra mạnh hơn, điện áp hoặc dòng điện tỷ lệ với tín hiệu đầu vào. Có nghĩa là nó có thể hoạt động như bộ khuếch đại. Ngoài ra, bóng bán dẫn có thể được sử dụng để bật hoặc tắt dòng điện trong một mạch như là một khóa điện tử	

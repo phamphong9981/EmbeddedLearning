@@ -1,0 +1,7 @@
+Thyristor bản chất là một điốt được ghép từ bởi 2 transistor có với hai chiều đối nghịch và có thể điều khiển được (tương đương hai BJT gồm một BJT loại NPN và một BJT loại PNP). Chúng hoạt động khi được cấp điện và tự động ngắt, trở về trạng thái ngưng dẫn khi không có điện. Nó được thường được dùng cho chỉnh lưu dòng điện có điều khiển.
+
+- Nguyên lý hoạt động:
+	+ Khi cực G và VG  = OV có nghĩa là transistor T1 không có phân cực ở cực B nên T1 ngưng dẫn. Khi T1ngưng dẫn IB1 = 0, IC1 = 0 và T2 cũng ngưng dẫn. Như vậy trường hợp này Thyristor không dẫn điện được, dòng điện qua Thyristor là IA = 0 và VAK ≈ VCC.
+	+ Trường hợp đóng khóa K: VG = VDC – IGRG, lúc này Thyristor dễ chuyển sang trạng thai dẫn điện. Lúc này transistor T1 được phân cực ở cực B1 nên dòng điện IG chính là IB1  làm T1 dẫn điện, cho ra IC1 chính là dòng điện IB2 nên lúc đó I2 dẫn điện, cho ra dòng điện IC2 lại cung cấp ngược lại cho T1 và IC2 = IB1.
+
+- Ứng dụng:Thyristor chủ yếu được sử dụng ở những ứng dụng yêu cầu điện áp và dòng điện lớn, và thường được sử dụng để điều khiển dòng xoay chiều AC (Alternating current), vì sự thay đổi cực tính của dòng điện khiến thiết bị có thể đóng một cách tự động(được biết như là quá trình Zero Cross-quá trình đóng cắt đầu ra tại lân cận điểm 0 của điện áp hình sin).
